@@ -1,7 +1,7 @@
 # SlimMsgSys
 ****
 ## Intro:
-I wanted to practice writing a full java server side web application using **Spring Boot**.  
+It is a tutorial project for a full java server side web application using **Spring Boot**.  
 In my past projects I've used: 
 * **Jersey** - as a JAX-RS provider for developing RESTful Web Services in Java.
 * **Hibernate** - as a JPA provider to takes care of the mapping from Java classes to database tables (and from Java data types to SQL data types), 
