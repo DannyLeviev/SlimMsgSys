@@ -7,7 +7,7 @@ In my past projects I've used:
 * **Hibernate** - as a JPA provider to takes care of the mapping from Java classes to database tables (and from Java data types to SQL data types), 
 but also provides data query and retrieval facilities.  
 * **Spring IoC Container** - for dependency injection.
-* **JUnit and Mockito** - for testing of course.  
+* **JUnit and Mockito** - for testing ofcourse.  
 
 Now I could use them all in one.  
 Spring's 'opinionated' default configuration fits most (but not all) application's needs.  
